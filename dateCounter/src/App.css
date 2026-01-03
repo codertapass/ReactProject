@@ -1,0 +1,22 @@
+.date-counter {
+  max-width: 300px;
+  margin: 50px auto;
+}
+.box {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.btn {
+  font-size: 30px;
+  padding: 5px 10px;
+}
+.digit {
+  font-size: 30px;
+}
+.count-date {
+  font-size: 20px;
+  font-weight: 700;
+}
